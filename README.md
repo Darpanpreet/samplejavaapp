@@ -1,2 +1,2 @@
 Sample Java Applicaiton V3.5
-This changes is for jenkins.
+This changes is only for jenkins.
